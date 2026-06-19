@@ -16,7 +16,5 @@ My goal is to build practical skills, gain industry experience, and eventually w
 Thank you for visiting.
 
 
-**#30NitesOfCode:**
-[Check out my progress!](https://www.codedex.io/@J-Robles/30-nites-of-code)
 
 ![@J-Robles #30NitesOfCode](https://www.codedex.io/api/petStatus?user=J-Robles)
