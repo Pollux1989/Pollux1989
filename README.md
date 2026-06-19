@@ -1,12 +1,19 @@
 
 #Hola Amigos 👋:
 
+# Welcome
 
-• I'm Jair, While I haven't studied tech formally, I'm a passionate enthusiast with a dream of working in the field someday. At 35, I'm diving in to learn on my own!.
+Hello and welcome to my professional learning portfolio.
 
-• A Colombian business administrator in Australia for five years dives into a new passion in their free time.
+My name is Jair Robles, and I am currently working in the construction industry in Australia while pursuing a transition into Information Technology.
 
-• My dream is to return to my country someday and have ample free time to delve deeper and deeper into the world of technology.
+I have previous experience as a Software Tester and completed an Advanced Diploma of Telecommunications Network Engineering (ICT60615) in Australia.
+
+This website documents my learning journey, laboratory projects, technical notes, certifications, and hands-on practice in networking, infrastructure, and cybersecurity.
+
+My goal is to build practical skills, gain industry experience, and eventually work in the IT sector in Australia.
+
+Thank you for visiting.
 
 
 **#30NitesOfCode:**
